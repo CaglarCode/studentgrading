@@ -1,4 +1,4 @@
-# Final-Year-Project
+
 # Optical Mark Recognition Application using Python & OpenCV  
 
 ## Table of Content
